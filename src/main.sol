@@ -1,9 +1,6 @@
 pragma solidity ^0.4.8;
 
 import {Math} from './math.sol';
-// import {Mpq} from './mpq.sol';
-// import {SC2Replay, SC2Protocol} from './sc2/replay.sol';
-
 
 
 library HelloWorld {
@@ -23,16 +20,3 @@ library HelloWorld {
 //         return "Hello, 世界！";
 //     }
 // }
-
-// contract SC2Bet {
-//     // function new() {
-
-//     // }
-//     // function buy() {
-
-//     // }
-//     // function signaller() {
-        
-//     // }
-// }
-
